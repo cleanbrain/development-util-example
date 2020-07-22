@@ -1,1 +1,1 @@
-# cleanbrain-util-example
+# util-example
