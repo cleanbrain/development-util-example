@@ -12,7 +12,7 @@ import java.util.Date;
  * Date: 2020-02-26
  * Time: 오후 1:10
  */
-public class MyDateUtil {
+public class DateUtils {
 
     /**
      * @see ' 기준일을 기준으로 영업일을 고려하여 원하는 날짜 범위를 구한다.
